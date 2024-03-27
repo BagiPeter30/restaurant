@@ -1,0 +1,28 @@
+{
+  "reservations": [
+    {
+      "id": "de04",
+      "prsonname": "Peter Bagi",
+      "telephone": "0640602010",
+      "pnum": 5,
+      "datetime": "2024-03-16",
+      "starthour": "14"
+    },
+    {
+      "id": "662c",
+      "prsonname": "Bálint Róbert",
+      "telephone": "0640505050",
+      "pnum": 2,
+      "datetime": "2024-03-22",
+      "starthour": "19"
+    },
+    {
+      "id": "a459",
+      "prsonname": "Beviz Elek",
+      "telephone": "0667897765",
+      "pnum": 15,
+      "datetime": "2024-04-19",
+      "starthour": "21"
+    }
+  ]
+}
