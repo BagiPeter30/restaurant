@@ -15,6 +15,9 @@ onMounted(() =>
 </script>
 
 <template>
+    <button type="button" class="btn btn-warning lh-md fw-bold mx-3">
+        Foglalások
+    </button>
 <div class="container mt-3">
     <div class="row d-flex flex-column">
         <div class="col mb-3" v-for="p in peoples">
